@@ -1,1 +1,2 @@
-Se identificar e registrar todas as alterações dentro desse arquivo.
+Adicionei registro no código fonte.
+(Arnaldo) 11:21hs 28/07/22
