@@ -1,1 +1,2 @@
-Se identificar e registrar todas as alterações dentro desse arquivo.
+Especifiquei melhor o registro no código fonte.
+(Fernando Souza) 11:18hs
